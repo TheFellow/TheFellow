@@ -19,6 +19,7 @@ I explore architecture, API evolution, developer tooling, authorization, and AI 
 
 | Project | What it explores | Links |
 | --- | --- | --- |
+| **weave** | A local-first semantic graph for fresh compiler facts, repository structure, and source-rich agent research | [Project notes](https://thefellow.github.io/projects/weave/) · [Source](https://github.com/TheFellow/weave) |
 | **arch-lint** | Architectural dependency rules enforced as Go build-time checks | [Project notes](https://thefellow.github.io/projects/arch-lint/) · [Source](https://github.com/TheFellow/arch-lint) |
 | **go-modular-monolith** | Executable module boundaries and cross-cutting concerns in Go | [Project notes](https://thefellow.github.io/projects/go-modular-monolith/) · [Source](https://github.com/TheFellow/go-modular-monolith) |
 | **enumstruct** | Exhaustive pointer-union switches for generated Go models | [Project notes](https://thefellow.github.io/projects/enumstruct/) · [Source](https://github.com/TheFellow/enumstruct) |
