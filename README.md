@@ -42,6 +42,7 @@ I explore architecture, API evolution, developer tooling, authorization, and AI 
 
 | Project | What it explores | Links |
 | --- | --- | --- |
+| **expr-dotnet** | A safe, statically checked expression language for .NET with bounded execution | [Project notes](https://thefellow.github.io/projects/expr-dotnet/) · [Source](https://github.com/TheFellow/expr-dotnet) |
 | **ValueTypes** | Structural equality for domain-driven value objects | [Project notes](https://thefellow.github.io/projects/value-types/) · [Source](https://github.com/TheFellow/ValueTypes) |
 | **Functional** | Small functional types and composition helpers for C# | [Source](https://github.com/TheFellow/Functional) |
 | **modular-monolith** | An idiomatic .NET 10 port preserving Mixology's modular architecture and behavior | [Project notes](https://thefellow.github.io/projects/modular-monolith/) · [Source](https://github.com/TheFellow/modular-monolith) |
