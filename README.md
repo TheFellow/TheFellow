@@ -44,7 +44,7 @@ I explore architecture, API evolution, developer tooling, authorization, and AI 
 | --- | --- | --- |
 | **ValueTypes** | Structural equality for domain-driven value objects | [Project notes](https://thefellow.github.io/projects/value-types/) · [Source](https://github.com/TheFellow/ValueTypes) |
 | **Functional** | Small functional types and composition helpers for C# | [Source](https://github.com/TheFellow/Functional) |
-| **modular-monolith** | A modular-monolith example application in C# | [Source](https://github.com/TheFellow/modular-monolith) |
+| **modular-monolith** | An idiomatic .NET 10 port preserving Mixology's modular architecture and behavior | [Project notes](https://thefellow.github.io/projects/modular-monolith/) · [Source](https://github.com/TheFellow/modular-monolith) |
 
 <div align="center">
 
