@@ -37,6 +37,7 @@ I explore architecture, API evolution, developer tooling, authorization, and AI 
 | **go-riblt** | Generic rateless set reconciliation with explicit resource limits | [Project notes](https://thefellow.github.io/projects/go-riblt/) · [Source](https://github.com/TheFellow/go-riblt) |
 | **go-merkletrie** | Immutable content-addressed maps with canonical codecs and lazy snapshots | [Project notes](https://thefellow.github.io/projects/go-merkletrie/) · [Walkthrough](https://thefellow.github.io/notes/building-a-persistent-merkle-trie-in-go/) · [Source](https://github.com/TheFellow/go-merkletrie) |
 | **fluid** | Interactive two-dimensional fluid simulation and visualization in Go | [Project notes](https://thefellow.github.io/projects/fluid/) · [Source](https://github.com/TheFellow/fluid) |
+| **the-line** | Interactive racing-line playground in Go for exploring track layouts, car setup, and lap times | [Project notes](https://thefellow.github.io/projects/the-line/) · [Build note](https://thefellow.github.io/notes/building-a-racing-line-playground/) · [Source](https://github.com/TheFellow/the-line) |
 
 ## 🧱 .NET foundations
 
