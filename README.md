@@ -27,14 +27,16 @@ I explore architecture, API evolution, developer tooling, authorization, and AI 
 
 | Project | What it explores | Links |
 | --- | --- | --- |
-| **cedar-dotnet** | The Cedar policy language and authorization model in C# | [Project notes](https://thefellow.github.io/projects/cedar-dotnet/) · [Source](https://github.com/TheFellow/cedar-dotnet) |
-| **F#kYeah** | Multi-stage AI workflows expressed as executable F# graphs | [Project notes](https://thefellow.github.io/projects/fkyeah/) · [Source](https://github.com/TheFellow/fkyeah) |
+| **cedar-dotnet** | The Cedar policy language and authorization model in C# | [Project notes](https://thefellow.github.io/projects/cedar-dotnet/) · [Porting note](https://thefellow.github.io/notes/porting-cedar-semantics-from-go-to-dotnet/) · [Source](https://github.com/TheFellow/cedar-dotnet) |
+| **jetbrains-cedar** | Cedar policy language support for JetBrains IDEs, ported from the official VS Code extension | [Project notes](https://thefellow.github.io/projects/jetbrains-cedar/) · [Porting note](https://thefellow.github.io/notes/porting-vscode-cedar-to-jetbrains/) · [Source](https://github.com/TheFellow/jetbrains-cedar) |
+| **obsidian-cedar** | Cedar policy and schema highlighting in Obsidian notes using the upstream grammars | [Project notes](https://thefellow.github.io/projects/obsidian-cedar/) · [Build note](https://thefellow.github.io/notes/cedar-highlighting-in-obsidian/) · [Obsidian directory](https://community.obsidian.md/plugins/cedar) · [Source](https://github.com/TheFellow/obsidian-cedar) |
+| **F#kYeah** | Multi-stage AI workflows expressed as executable F# graphs | [Project notes](https://thefellow.github.io/projects/fkyeah/) · [Semantic porting note](https://thefellow.github.io/notes/autonomous-semantic-porting-with-fkyeah/) · [Source](https://github.com/TheFellow/fkyeah) |
 
 ## 🧪 Systems and algorithms
 
 | Project | What it explores | Links |
 | --- | --- | --- |
-| **go-riblt** | Generic rateless set reconciliation with explicit resource limits | [Project notes](https://thefellow.github.io/projects/go-riblt/) · [Source](https://github.com/TheFellow/go-riblt) |
+| **go-riblt** | Generic rateless set reconciliation with explicit resource limits | [Project notes](https://thefellow.github.io/projects/go-riblt/) · [Walkthrough](https://thefellow.github.io/notes/riblt-in-go/) · [Source](https://github.com/TheFellow/go-riblt) |
 | **go-merkletrie** | Immutable content-addressed maps with canonical codecs and lazy snapshots | [Project notes](https://thefellow.github.io/projects/go-merkletrie/) · [Walkthrough](https://thefellow.github.io/notes/building-a-persistent-merkle-trie-in-go/) · [Source](https://github.com/TheFellow/go-merkletrie) |
 | **fluid** | Interactive two-dimensional fluid simulation and visualization in Go | [Project notes](https://thefellow.github.io/projects/fluid/) · [Source](https://github.com/TheFellow/fluid) |
 | **the-line** | Interactive racing-line playground in Go for exploring track layouts, car setup, and lap times | [Project notes](https://thefellow.github.io/projects/the-line/) · [Build note](https://thefellow.github.io/notes/building-a-racing-line-playground/) · [Source](https://github.com/TheFellow/the-line) |
